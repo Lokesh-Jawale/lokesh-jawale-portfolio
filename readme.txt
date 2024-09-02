@@ -1,2 +1,2 @@
 Lokesh Jawale Portfolio
-https://lokesh-jawale.github.io/my-portfolio-wesbite/
+https://lokesh-jawale.github.io/lokesh-jawale-portfolio/
